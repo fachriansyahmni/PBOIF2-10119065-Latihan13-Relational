@@ -1,3 +1,4 @@
+package pboif2_10119065_latihan13_relational;
 /*
  * @author
  * NAMA                 : Fachriansyah Muhammad Nur Ihsan
@@ -6,7 +7,6 @@
  * Deskripsi Program    : Program ini berisi relational
  *
  */
-package pboif2_10119065_latihan13_relational;
 public class PBOIF2_10119065_Latihan13_Relational {
     public static void main(String[] args) {
         int bil1 = 10;
